@@ -1,2 +1,8 @@
-# -
-پل ارگو برای فیلترشکن Argo vpn
+فیلترشکن Argo vpn
+-----BEGIN ARGO VPN BRIDGE BLOCK-----
+eNoVzcGOgjAUQNF/6VYT0EnqaOJCC0KrljQmBBo2BYrzVOpIFVOM/z7O/ubcF+p1
+Z+Fq0GIyRr/KXa6qRgukHXtW7dwvp7wvCcX0HMKOsEFmbCozCgmwVsUMy4ibvK0e
+ZZv6FJ5QRXNXf3oeiKERyyUaIwtHo+6PTn/YfSgIDeM1BGTjTsZegsHX+OcsjydJ
+8mZUN1lu4/2mifXOn6XJCtb49mWyHHAfTb7rpPDEdmYLr/CcTDUPbvZQbTk98E6O
+hHL/x/cfPMtFvw==
+-----END ARGO VPN BRIDGE BLOCK-----#
